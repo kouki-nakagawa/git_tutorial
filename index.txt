@@ -2,4 +2,5 @@ test
 aaaa
 git commit --amend
 git merge
-コンフリクト
+conflict
+
