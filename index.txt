@@ -2,3 +2,5 @@ test
 aaaa
 git commit --amend
 git merge
+conflict
+pullrequest2
